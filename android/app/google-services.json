@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480183192329",
+    "project_id": "memorvia-2ef85",
+    "storage_bucket": "memorvia-2ef85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480183192329:android:3ad4567ba332bfdb1561d8",
+        "android_client_info": {
+          "package_name": "com.memorvia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgt2a1YLoRnyw11l9D2vumE6cdh6YtvRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
